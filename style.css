@@ -16,6 +16,7 @@ body {
   transition: background 0.5s ease, color 0.5s ease;
   justify-content: flex-start;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 /* Updated Navbar for Mobile Responsiveness */
@@ -1262,5 +1263,4 @@ body.dark-mode {
   --bg-color: #0e0f11;
   --text-color: #e0e0e0;
   --heading-color: #fff;
-  
 }
