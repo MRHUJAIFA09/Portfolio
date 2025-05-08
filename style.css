@@ -1264,9 +1264,3 @@ body.dark-mode {
   --text-color: #e0e0e0;
   --heading-color: #fff;
 }
-.certificate-title {
-  text-align: center;
-  font-size: 1.5rem;
-  color: #1f3c88;
-  margin-top: 20px;
-}
